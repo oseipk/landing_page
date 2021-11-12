@@ -58,6 +58,7 @@ a{
 .placeholder img{
     max-width: 300px;
     margin-right: 20px;
+    max-height: 200px;
 }
 .title{
     font-weight: 900;
@@ -79,12 +80,11 @@ a{
     padding: 20px;
 }
 
-.box{
+.card-info img{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: lightblue solid;
-    border-radius: 20px;
+    width: 100px;
     }
 .card1{
     text-align: center;
